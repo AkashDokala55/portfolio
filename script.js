@@ -82,7 +82,7 @@ const projects = {
         description: "A healthcare web app that fetches and displays medicine information based on user symptoms using the OpenFDA API. Helps users find relevant medicines with details like usage, side effects, and manufacturer.",
         demo: "https://drive.google.com/file/d/1yaSdu7aMkIBlyRyxbgWIfdC3qcDetQeR/view?usp=sharing",
         github: "https://github.com/AkashDokala55/MedicineRecommender",
-        viewonline:"error.html"
+        viewonline:"https://medicinerecommender-57d9.onrender.com/"
     },
     "movies-app": {
         title: "Movies App",
